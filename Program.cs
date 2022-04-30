@@ -8,7 +8,9 @@ namespace ConsoleApplication1
 {
     class Program
     {
-            //正方形の一片の長さ
+        static void Main(string[] args)
+        {
+    //正方形の一片の長さ
     int side = 5; 
 
     //正方形の面積
@@ -22,6 +24,5 @@ namespace ConsoleApplication1
 
     Console.WriteLine(areaBlue);
     Console.ReadLine();
-        }
     }
 }
