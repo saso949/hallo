@@ -1,0 +1,15 @@
+/Volumes/Mac HDD 1TB-2/C#/Halo world/bin/Debug/net6.0/Halo world
+/Volumes/Mac HDD 1TB-2/C#/Halo world/bin/Debug/net6.0/Halo world.deps.json
+/Volumes/Mac HDD 1TB-2/C#/Halo world/bin/Debug/net6.0/Halo world.runtimeconfig.json
+/Volumes/Mac HDD 1TB-2/C#/Halo world/bin/Debug/net6.0/Halo world.dll
+/Volumes/Mac HDD 1TB-2/C#/Halo world/bin/Debug/net6.0/Halo world.pdb
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.csproj.AssemblyReference.cache
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.AssemblyInfoInputs.cache
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.AssemblyInfo.cs
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.csproj.CoreCompileInputs.cache
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.dll
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/refint/Halo world.dll
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.pdb
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/Halo world.genruntimeconfig.cache
+/Volumes/Mac HDD 1TB-2/C#/Halo world/obj/Debug/net6.0/ref/Halo world.dll
