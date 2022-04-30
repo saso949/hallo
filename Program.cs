@@ -25,8 +25,6 @@ namespace ConsoleApplication1
     Console.WriteLine(areaBlue);
     Console.ReadLine();
 
-
-
         }
     }
 }
