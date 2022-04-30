@@ -8,13 +8,20 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            int sum = 6 + 2;
-            int minus = 9 - 1;
+            //正方形の一片の長さ
+    int side = 5; 
 
-            sum += minus;
-            Console.WriteLine(sum);
+    //正方形の面積
+    int areaSquare = side * side;
+
+    //円の面積
+    double areaCircle = (side / 2) * (side / 2) * 3.14;
+
+    //青色部の面積
+    double areaBlue = areaSquare - areaCircle;
+
+    Console.WriteLine(areaBlue);
+    Console.ReadLine();
         }
     }
 }
